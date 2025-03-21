@@ -1,7 +1,7 @@
 - 👋 Salut, je suis @Ayfuuu
 - 👀 Je suis intéressé par être aider 
-- 🌱 J’apprends actuellement à developper le .lua
-- 📫 Comment me joindre mon discord ayfu#0001
+- 🌱 J’apprends actuellement à developper le .lua .js .html .css
+- 📫 Comment me joindre mon discord ayfu.
 
 <!---
 Ayfuuu/Ayfuuu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
